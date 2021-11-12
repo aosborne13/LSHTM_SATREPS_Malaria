@@ -1,7 +1,7 @@
 # LSHTM_SATREPS_Malaria
 
 ## Plot Read Depth using depth_info.txt file
-Create box plots to show the read depth at positions of interest in your amplicon sequencing data using R and the depth_info.txt output file from the amplicon sequencing pipeline.
+Create box plots using the plot_read_depth.R script in the plotting folder to show the read depth at positions of interest in amplicon sequencing data using the depth_info.txt output file from the amplicon sequencing pipeline.
 
 ### Read depth of SNPs on *P. falciparum* drug resistance-associated loci sequenced using illumina amplicon sequencing
 ![alt text](https://github.com/aosborne13/LSHTM_SATREPS_Malaria/blob/main/read_depth.png?raw=true)
